@@ -6,6 +6,7 @@
 - [Actividad 2.5](https://github.com/dwcs-code-2425/r27_Actividad2.5_forms)
 - [Actividad 2.6](https://github.com/dwcs-code-2425/r27_Actividad2.6_files.git)
 - [Actividad 2.8 y 2.9](https://github.com/dwcs-code-2425/r27_Actividad2.8.git)
+- [Propuesta de sol. Tarea02.1](https://github.com/dwcs-code-2425/r27_Tarea02.1-sol)
 ## UD3
 - [Actividad3.1-sol](https://github.com/dwcs-code-2425/r27_Actividad3.1-cookies_aula)
 - [Actividad3.2-sol](https://github.com/dwcs-code-2425/r27_Actividad3.2_aula_sol.git)
